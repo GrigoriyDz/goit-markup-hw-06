@@ -412,7 +412,7 @@ body {
   fill: rgba(255, 255, 255, 1);
 }
 .form {
-  margin: 12px 215px 34px 93px;
+  margin-left: 93px;
 }
 .label-box {
   margin-bottom: 10px;
